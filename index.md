@@ -15,7 +15,7 @@ I liked how it taught us how to access and clone repositories from github, and w
 
 ## Lab #4.
 
-* Another one of my favorite labs from this semester was lab 4. I liked this lab because it used many fucntions to convert
+* Another one of my favorite labs from this semester was lab 4. I liked this lab because it used many functions to convert
 certain units of measurement to a different unit of measurement. I felt like this was really interesting and helpful to learn 
 since we will be converting different values/units in many upcoming labs and projects.
 
